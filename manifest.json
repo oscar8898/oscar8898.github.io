@@ -1,0 +1,23 @@
+  
+{
+    "name": "Victoria Nails",
+    "short_name": "Victoriana",
+    "description": "Reserva tu cita de uñas con facilidad",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ec4899",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/logo-viki.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/logo-viki.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
